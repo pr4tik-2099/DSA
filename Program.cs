@@ -3,5 +3,7 @@ using System;
 
 Arrays arr = new Arrays();
 
-arr.InsertionAtLast();
+//arr.InsertionAtLast();
 //arr.InsertionAtFirst();
+
+arr.InsertionAtMiddle();

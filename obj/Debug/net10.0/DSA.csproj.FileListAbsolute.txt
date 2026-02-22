@@ -12,3 +12,4 @@ E:\DSA\obj\Debug\net10.0\refint\DSA.dll
 E:\DSA\obj\Debug\net10.0\DSA.pdb
 E:\DSA\obj\Debug\net10.0\DSA.genruntimeconfig.cache
 E:\DSA\obj\Debug\net10.0\ref\DSA.dll
+E:\DSA\obj\Debug\net10.0\DSA.sourcelink.json
