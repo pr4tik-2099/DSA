@@ -5,8 +5,7 @@ using System.Threading.Tasks;
 
 namespace DSA.ARRAY
 {
-    // Array is a data Structure that can hold a fixed number of values of the same type, stored in contiguous memory locations.
-    public class Arrays
+    public class ArrayInsertion
     {
         //Inserting an element at the last position of the array 
         public void InsertionAtLast()

@@ -1,9 +1,8 @@
 ﻿using DSA.ARRAY;
 using System;
 
-Arrays arr = new Arrays();
+ArrayInsertion arr = new ArrayInsertion();
 
 //arr.InsertionAtLast();
 //arr.InsertionAtFirst();
-
-arr.InsertionAtMiddle();
+//arr.InsertionAtMiddle();
