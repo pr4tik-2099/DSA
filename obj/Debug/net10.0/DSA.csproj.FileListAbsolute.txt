@@ -1,0 +1,14 @@
+E:\DSA\bin\Debug\net10.0\DSA.exe
+E:\DSA\bin\Debug\net10.0\DSA.deps.json
+E:\DSA\bin\Debug\net10.0\DSA.runtimeconfig.json
+E:\DSA\bin\Debug\net10.0\DSA.dll
+E:\DSA\bin\Debug\net10.0\DSA.pdb
+E:\DSA\obj\Debug\net10.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\DSA\obj\Debug\net10.0\DSA.AssemblyInfoInputs.cache
+E:\DSA\obj\Debug\net10.0\DSA.AssemblyInfo.cs
+E:\DSA\obj\Debug\net10.0\DSA.csproj.CoreCompileInputs.cache
+E:\DSA\obj\Debug\net10.0\DSA.dll
+E:\DSA\obj\Debug\net10.0\refint\DSA.dll
+E:\DSA\obj\Debug\net10.0\DSA.pdb
+E:\DSA\obj\Debug\net10.0\DSA.genruntimeconfig.cache
+E:\DSA\obj\Debug\net10.0\ref\DSA.dll

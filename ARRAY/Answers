@@ -1,0 +1,8 @@
+Inserting at the last Index of the Element
+Before = 1, 2, 3, 4, 5, 6, 7, 0
+After = 1, 2, 3, 4, 5, 6, 7, 8
+
+
+Inserting At the First Index of the Array
+Before = 1, 2, 3, 4, 5, 6, 7, 0
+After = 8, 1, 2, 3, 4, 5, 6, 7
