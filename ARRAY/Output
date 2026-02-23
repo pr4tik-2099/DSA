@@ -2,16 +2,21 @@
 
 
 
-Inserting at the last Index of the Element:
+Inserting an element at the last Index of the Element:
 Before = 1, 2, 3, 4, 5, 6, 7, 0
 After = 1, 2, 3, 4, 5, 6, 7, 8
 
 
-Inserting At the First Index of the Array:
+Inserting an element At the First Index of the Array:
 Before = 1, 2, 3, 4, 5, 6, 7, 0
 After = 8, 1, 2, 3, 4, 5, 6, 7
 
 
-Inserting At the Middle Or Anywhere of the Array:
+Inserting an element At the Middle Or Anywhere of the Array:
 Before = 1, 2, 3, 4, 5, 6, 7, 0
 After = 1, 2, 3, 4, 8, 5, 6, 7
+
+Deleting an element at the last Index of the Element:
+Before = 1, 2, 3, 4, 5, 6, 7, 0
+After = 1, 2, 3, 4, 5, 6, 7, 8
+
