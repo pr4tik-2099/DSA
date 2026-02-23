@@ -89,6 +89,7 @@ namespace DSA.ARRAY
             }
 
             arr[indexForInsert] = 8;
+            
             Console.Write(String.Join(", ",arr));
 
         }

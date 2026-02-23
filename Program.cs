@@ -8,4 +8,4 @@ ArrayInsertion arrIns = new ArrayInsertion();
 //arr.InsertionAtMiddle();
 ArrayDeletion arrDel = new ArrayDeletion();
 //arrDel.DeletionAtLast();
-arrDel.DeleteionAtFirst();
+arrDel.DeletionAtMiddle();

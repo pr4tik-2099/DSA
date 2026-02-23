@@ -53,7 +53,32 @@ namespace DSA.ARRAY
             {
                 Console.Write(arr[i] + ", ");
             }
-            
+
+        }
+
+        public void DeletionAtMiddle()
+        {
+            int arrLen = 8;
+            int[] arr = new int[arrLen];
+
+            int length = 0;
+            for (int i = 0; i < arrLen; i++)
+            {
+                arr[i] = i + 1;
+                length++;
+            }
+            Console.WriteLine(String.Join(", ", arr));
+
+            for(int i = 4 ; i < length ; i++)
+            {
+                arr[i-1] = arr[i];
+            }
+
+            length--;
+            for(int i = 0 ; i < length ; i++)
+            {
+                Console.Write(arr[i] + ", ");
+            }
         }
     }
 }
