@@ -27,7 +27,7 @@ namespace DSA.LINKED_LIST
             while (current != null)
             {
                 Console.WriteLine(current.Data);
-                current = current.Next; 
+                current = current.Next!; 
             }
         }
     }
