@@ -1,11 +1,6 @@
 ﻿using DSA.ARRAY;
+using DSA.LINKED_LIST;
 using System;
 
-ArrayInsertion arrIns = new ArrayInsertion();
-
-//arr.InsertionAtLast();
-//arr.InsertionAtFirst();
-//arr.InsertionAtMiddle();
-ArrayDeletion arrDel = new ArrayDeletion();
-//arrDel.DeletionAtLast();
-arrDel.DeletionAtMiddle();
+LinkedListTraverse linkedListTraverse = new LinkedListTraverse();
+linkedListTraverse.Traverse();

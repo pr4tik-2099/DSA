@@ -18,7 +18,13 @@ namespace DSA.LINKED_LIST
             b.Data = 20;
             b.Next = c;
             c.Data = 30;
-            
+
+            Node current = a;
+            while (current != null)
+            {
+                Console.WriteLine(current.Data);
+                current = current.Next; 
+            }
         }
     }
 }
