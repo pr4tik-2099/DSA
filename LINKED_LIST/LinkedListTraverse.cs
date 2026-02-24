@@ -20,6 +20,7 @@ namespace DSA.LINKED_LIST
             c.Data = 30;
 
             Node current = a;
+            
             while (current != null)
             {
                 Console.WriteLine(current.Data);
