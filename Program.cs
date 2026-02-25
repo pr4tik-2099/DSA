@@ -5,5 +5,5 @@ using System;
 
 LinkedListTraverse linkedListTraverse = new LinkedListTraverse();
 //linkedListTraverse.Traverse();
-LinkedListInsertion linkedListInsertion = new LinkedListInsertion();
-linkedListInsertion.InsertAtBeginning();
+LinkedListInsertion LLI = new LinkedListInsertion();
+LLI.InsertAtBeginning();
