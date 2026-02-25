@@ -4,4 +4,5 @@ using System;
 
 
 LinkedListInsertion LLI = new LinkedListInsertion();
-LLI.InsertAtBeginning();
+//LLI.InsertAtBeginning();
+LLI.InsertAtEnd();

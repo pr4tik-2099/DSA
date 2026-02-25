@@ -17,5 +17,10 @@ namespace DSA.LINKED_LIST
             LLt.head = newNode; // Point the new node to the current head (first node)
             LLt.Traverse(); // Traverse to see the updated list
         }
+
+        public void InsertAtEnd()
+        {
+           
+        }
     }
 }
