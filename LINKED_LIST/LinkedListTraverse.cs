@@ -7,12 +7,15 @@ namespace DSA.LINKED_LIST
 {
     public class LinkedListTraverse
     {
+            public Node a = new Node();
+            public Node b = new Node();
+            public Node c = new Node();
+            public Node d = new Node();
+
+             public Node? head;
        public void Traverse()
         {
-            Node a = new Node();
-            Node b = new Node();
-            Node c = new Node();
-            Node d = new Node();
+            
 
             a.Data = 10;
             a.Next = b;
@@ -22,12 +25,11 @@ namespace DSA.LINKED_LIST
             c.Next = d;
             d.Data = 40;
 
-            Node current = a;
-
-            while (current != null)
+            //head = a; // Set head to the first node
+            while (head != null)
             {
-                Console.WriteLine(current.Data);
-                current = current.Next!; 
+                Console.WriteLine(head.Data);
+                head = head.Next!; 
             }
         }
     }

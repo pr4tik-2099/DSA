@@ -4,4 +4,6 @@ using System;
 
 
 LinkedListTraverse linkedListTraverse = new LinkedListTraverse();
-linkedListTraverse.Traverse();
+//linkedListTraverse.Traverse();
+LinkedListInsertion linkedListInsertion = new LinkedListInsertion();
+linkedListInsertion.InsertAtBeginning();
