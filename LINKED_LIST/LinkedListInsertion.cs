@@ -9,6 +9,7 @@ namespace DSA.LINKED_LIST
     {
         LinkedListTraverse LLt = new LinkedListTraverse();
         
+        //Inserting a node at the beginning of the linked list
         public void InsertAtBeginning()
         {
             Node newNode = new Node();
